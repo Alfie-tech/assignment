@@ -1,0 +1,21 @@
+*{
+    margin: 2px;
+    padding: 5px;
+}
+
+.ul:hover{
+    color: orange;
+}
+
+.contact{
+   float: center;
+   width: 100%;
+}
+
+.contact h2{
+    color: orange;
+}
+
+.contact send:hover{
+    color: orange;
+}
